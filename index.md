@@ -21,10 +21,10 @@ I previously worked as a research assistant at [Center of Future Media](https://
 - **[Mar. 2024]** Our paper about Multimodal Fusion is accepted to ICME 2024.
 - **[Feb. 2024]** Our paper about Uncertainty Learning in Multimodal Fusion is accepted to CVPR 2024.
 
-
+## Experiences
+- **Center of Future Media** :Mentored by Prof. Xing Xu
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
 
-## Experiences
-- **Center of Future Media** :Mentored by Prof. Xing Xu
