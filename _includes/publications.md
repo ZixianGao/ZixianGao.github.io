@@ -3,6 +3,8 @@
 <div class="publications">
 <ol class="bibliography">
 
+(* indicates authors with equal contribution.)
+
 {% for link in site.data.publications.main %}
 
 <li>
