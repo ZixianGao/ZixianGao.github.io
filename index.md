@@ -12,8 +12,9 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Pose Estimation
+- **Multimodal Learning:** Multimodal Sentiment Analysis, Vision-Language Model, Incomplete Multimodal Learning
+- **Large Language Model:** efficiency, long-content
 
 ## News
 
