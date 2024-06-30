@@ -25,8 +25,7 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ## Experiences
 
-### Mar. 2024 - Mar. 2024
+### [Center of Future Media](https://cfm.uestc.edu.cn/index)
 
-- **Mar. 2024:** xxx
-- **xxx:** xxx
-- **xxx:** xxx
+- **May 2022 - August 2024** 
+- **Mentor:** [Prof. Xing Xu](https://interxuxing.github.io/)
