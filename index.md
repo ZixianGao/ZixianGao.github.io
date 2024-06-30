@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a junior student at the University of Electronic Science and Technology of China.
+I am a junior student at the University of Electronic Science and Technology of China. 
+
 <span style="color: red;">I'm looking for a phd position for 2025 Fall.</span>
 
 ## Research Interests
