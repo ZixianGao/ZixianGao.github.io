@@ -23,5 +23,3 @@ I previously worked as a research assistant at [Center of Future Media](https://
   
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
-
