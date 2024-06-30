@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a junior student at the University of Electronic Science and Technology of China.
 
 ## Research Interests
 
