@@ -25,5 +25,8 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ## Experiences
 
-- **[Mar. 2024]** Our paper about Multimodal Fusion is accepted to ICME 2024.
-- **[Mar. 2024]** Our paper about Multimodal Fusion is accepted to ICME 2024.
+### Mar. 2024 - Mar. 2024
+
+- **Mar. 2024:** xxx
+- **xxx:** xxx
+- **xxx:** xxx
