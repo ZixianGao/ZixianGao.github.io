@@ -19,7 +19,7 @@ I previously worked as a research assistant at [Center of Future Media](https://
 ## News
 
 - **[Mar. 2024]** Our paper about Multimodal Fusion is accepted to ICME 2024.
-- **[Feb. 2024]** Our paper about Uncertainty Learning in Multimodal Fusion is accepted to CVPR 2024.
+- **[Feb. 2024]** Our paper about Uncertainty Learning is accepted to CVPR 2024.
 
 {% include_relative _includes/publications.md %}
 
