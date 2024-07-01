@@ -14,7 +14,7 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 - **Computer Vision:** Pose Estimation, Video Captioning
 - **Multimodal Learning:** Multimodal Sentiment Analysis, Incomplete Multimodal Learning
-- **Large Model:** Large Language Model(efficiency, long-content), Multimodal Large Language Model
+- **Large Language Model:** Model's efficiency, long-content ability, MLLM
 
 ## News
 
