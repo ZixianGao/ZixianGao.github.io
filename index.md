@@ -27,12 +27,10 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ### [Center of Future Media, University of Electronic Science and Technology of China](https://cfm.uestc.edu.cn/index)
 
-- **May 2022 - August 2024**
 - **Research Assistant**
 - **Mentor:** [Prof. Xing Xu](https://interxuxing.github.io/)
 
 ### [UNITES Lab, University of North Carolina at Chapel Hill](https://tianlong-chen.github.io/index.html#lab)
 
-- **Novermber 2023 - April 2024**
 - **Research Intern**
 - **Mentor:** [Prof. Tianlong Chen](https://tianlong-chen.github.io/)
