@@ -18,6 +18,7 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ## News
 
+- **[Jul. 2024]** Our paper about Mixture of Expert is accepted to ACM MM 2024.
 - **[Mar. 2024]** Our paper about Multimodal Fusion is accepted to ICME 2024.
 - **[Feb. 2024]** Our paper about Uncertainty Learning is accepted to CVPR 2024.
 
