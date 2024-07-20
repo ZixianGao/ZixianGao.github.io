@@ -11,7 +11,7 @@ main:
     # notes: Early Accept
 
   - title: "Uncertainty-Debiased Multimodal Fusion: Learning Deterministic Joint Representation for Multimodal Sentiment Analysis"
-    authors: <strong>Zixian Gao</strong>, Xun Jiang, Hua Chen, Yujie Li, Xing Xu
+    authors: <strong>Zixian Gao</strong>, Xun Jiang, Hua Chen, Yujie Li, Yang Yang, Xing Xu
     conference_short: ICME
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
