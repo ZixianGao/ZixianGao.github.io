@@ -12,9 +12,8 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ## Research Interests
 
-- **Computer Vision:** Pose Estimation, Video Captioning
-- **Multimodal Learning:** Multimodal Sentiment Analysis, Incomplete Multimodal Learning
-- **Large Language Model:** Model's efficiency, long-content ability, MLLM
+- **Computer Vision:** Pose Estimation, Text to Image Generation
+- **Multimodal Learning:** Incomplete Multimodal Learning, Multimodal LLMs
 
 ## News
 
