@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an upcoming senior student at the University of Electronic Science and Technology of China, majoring in Computer Science and Technology. 
+I am a senior student at the University of Electronic Science and Technology of China, majoring in Computer Science and Technology. 
 I previously worked as a research assistant at [Center of Future Media](https://cfm.uestc.edu.cn/index) and was fortunate to be mentored by [Prof. Xing Xu](https://interxuxing.github.io/). 
 
 
