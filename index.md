@@ -12,7 +12,7 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ## Research Interests
 
-- **Computer Vision:** Pose Estimation, Text to Image Generation
+- **Trustworthy AI:** Robustness, Trustworthy MLLMs(LLMs)
 - **Multimodal Learning:** Incomplete Multimodal Learning, Multimodal LLMs
 
 ## News
