@@ -14,7 +14,7 @@ main:
     authors: <strong>Zixian Gao</strong>, Xun Jiang, Hua Chen, Yujie Li, Yang Yang, Xing Xu
     conference_short: ICME
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2024.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10688376
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
