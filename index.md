@@ -13,7 +13,7 @@ I previously worked as a research assistant at [Center of Future Media](https://
 ## Research Interests
 
 - **Trustworthy AI:** Robustness, Trustworthy MLLMs(LLMs), AI Safety
-- **Multimodal Learning:** Incomplete Multimodal Learning, Multimodal LLMs
+- **Multimodal Learning:** Incomplete Multimodal Learning, Text2Image
 
 ## News
 
