@@ -7,8 +7,9 @@ layout: homepage
 I am a senior student at the University of Electronic Science and Technology of China, majoring in Computer Science and Technology. 
 I previously worked as a research assistant at [Center of Future Media](https://cfm.uestc.edu.cn/index) and was fortunate to be mentored by [Prof. Xing Xu](https://interxuxing.github.io/). 
 
-
-<!🔥🔥🔥 <span style="color: red;">I'm currently looking for a PhD position starting in Fall 2025. If you are interested in my profile, please contact me.</span>>
+<div style='display: none'>
+🔥🔥🔥 <span style="color: red;">I'm currently looking for a PhD position starting in Fall 2025. If you are interested in my profile, please contact me.</span>
+</div>
 ## Research Interests
 
 - **Trustworthy AI:** Robustness, Trustworthy MLLMs(LLMs), AI Safety
