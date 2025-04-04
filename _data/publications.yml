@@ -5,7 +5,7 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Embracing_Unimodal_Aleatoric_Uncertainty_for_Robust_Multimodal_Fusion_CVPR_2024_paper.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/CFM-MSG/Code_URMF
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/CVPR2024.png
     # notes: Early Accept
