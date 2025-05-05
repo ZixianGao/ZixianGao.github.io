@@ -28,8 +28,3 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 - **Research Assistant**
 - **Mentor:** [Prof. Xing Xu](https://interxuxing.github.io/)
-
-### [UNITES Lab, University of North Carolina at Chapel Hill](https://tianlong-chen.github.io/index.html#lab)
-
-- **Research Intern**
-- **Mentor:** [Prof. Tianlong Chen](https://tianlong-chen.github.io/)
