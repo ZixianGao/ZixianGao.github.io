@@ -11,8 +11,8 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ## Research Interests
 
-- **Trustworthy AI:** Robustness, Trustworthy MLLMs(LLMs), AI Safety
-- **Multimodal Learning:** Incomplete Multimodal Learning, Text2Image
+- **Computer Vision:** Generative Models, World Simulation
+- **Multimodal Learning:** Vision Language Models, 3D Foundation Models
 
 ## News
 
