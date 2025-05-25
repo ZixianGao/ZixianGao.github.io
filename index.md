@@ -21,9 +21,9 @@ I am an incoming master's student at the University of Tokyo, supervised by [Pro
 
 {% include_relative _includes/publications.md %}
 
-## Experience
+<!-- ## Experience
 
 ### [Center of Future Media, University of Electronic Science and Technology of China](https://cfm.uestc.edu.cn/index)
 
 - **Research Assistant**
-- **Mentor:** [Prof. Xing Xu](https://interxuxing.github.io/)
+- **Mentor:** [Prof. Xing Xu](https://interxuxing.github.io/) -->
