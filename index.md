@@ -26,5 +26,5 @@ I previously worked as a research assistant at [Center of Future Media](https://
 
 ### [Center of Future Media, University of Electronic Science and Technology of China](https://cfm.uestc.edu.cn/index)
 
-<!-- - **Research Assistant**
-- **Mentor:** [Prof. Xing Xu](https://interxuxing.github.io/) -->
+- **Research Assistant**
+- **Mentor:** [Prof. Xing Xu](https://interxuxing.github.io/)
