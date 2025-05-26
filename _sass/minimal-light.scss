@@ -3,6 +3,15 @@ html, body {
   padding: 0;
 }
 
+.title a {
+  color: #111 !important;      /* 深黑色 */
+  font-weight: 700;            /* 加粗 */
+  text-decoration: none;       /* 可选：去掉下划线 */
+}
+.title a:hover {
+  color: #333 !important;      /* 悬停时也深色，可自定义 */
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
