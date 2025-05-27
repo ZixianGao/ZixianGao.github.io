@@ -9,7 +9,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/emnlp2025.pdf
+    image: ./assets/img/emnlp2025.png
 
   - title: "Embracing Unimodal Aleatoric Uncertainty for Robust Multimodal Fusion"
     authors: <strong>Zixian Gao</strong>*, Xun Jiang*, Xing Xu, Fumin Shen, Yujie Li, Heng Tao Shen
