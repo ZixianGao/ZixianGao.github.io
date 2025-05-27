@@ -1,5 +1,16 @@
 main:
 
+  - title: "Mitigating Object Hallucination via Robust Local Perception Search"
+    authors: <strong>Zixian Gao</strong>, Chao Yang, Zhanhui Zhou, Xing Xu, Chaochao Lu
+    conference_short: Preprint
+    conference: Submitted to EMNLP 2025
+    pdf: https://drive.google.com/file/d/167UYoaqh7YvS0GQFKPfiEADaNriBDQZ8/view?usp=sharing
+    code: https://github.com/ZixianGao/Local-Perception-Search
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/emnlp2025.pdf
+
   - title: "Embracing Unimodal Aleatoric Uncertainty for Robust Multimodal Fusion"
     authors: <strong>Zixian Gao</strong>*, Xun Jiang*, Xing Xu, Fumin Shen, Yujie Li, Heng Tao Shen
     conference_short: CVPR
@@ -21,13 +32,13 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/ICME2024.png
 
-  - title: "Enhanced Experts with Uncertainty-Aware Routing for Multimodal Sentiment Analysis"
-    authors: <strong>Zixian Gao</strong>, Disen Hu, Xun Jiang, Huimin Lu, Heng Tao Shen, Xing Xu
-    conference_short: ACM MM
-    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
-    pdf: https://openreview.net/pdf?id=78TMql1c04
-    code: https://github.com/ZixianGao/EUAR
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/MM2024.png
+  # - title: "Enhanced Experts with Uncertainty-Aware Routing for Multimodal Sentiment Analysis"
+  #   authors: <strong>Zixian Gao</strong>, Disen Hu, Xun Jiang, Huimin Lu, Heng Tao Shen, Xing Xu
+  #   conference_short: ACM MM
+  #   conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
+  #   pdf: https://openreview.net/pdf?id=78TMql1c04
+  #   code: https://github.com/ZixianGao/EUAR
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/MM2024.png
