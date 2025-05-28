@@ -34,15 +34,3 @@ border-radius: 4px;
 .news-scroll-box::-webkit-scrollbar-thumb:hover {
 background-color: #999;
 }
-
-h2 {
-    color: #043361;
-    font-weight: 500;
-    margin: 2px 0px 15px;
-    font-size: 157%;
-  
-    /* ✅ 新增分割线效果 */
-    border-bottom: 1px dashed #ccc;
-    padding-bottom: 6px;
-  }
-  
