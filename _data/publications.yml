@@ -3,7 +3,7 @@ main:
   - title: "Mitigating Object Hallucination via Robust Local Perception Search"
     authors: <strong>Zixian Gao</strong>, Chao Yang, Zhanhui Zhou, Xing Xu, Chaochao Lu
     conference_short: Preprint
-    conference: Submitted to EMNLP 2025
+    conference: In Submission
     pdf: https://drive.google.com/file/d/167UYoaqh7YvS0GQFKPfiEADaNriBDQZ8/view?usp=sharing
     code: https://github.com/ZixianGao/Local-Perception-Search
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
