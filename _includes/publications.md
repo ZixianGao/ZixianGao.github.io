@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-(* indicates authors with equal contribution.)
+(* indicates authors with equal contribution. See full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ku5ijSIAAAAJ).)
 
 {% for link in site.data.publications.main %}
 
