@@ -7,7 +7,7 @@ layout: homepage
 I am an incoming master's student at the University of Tokyo, supervised by [Prof. Hideki Nakayama](https://scholar.google.com/citations?user=lZAYGJoAAAAJ&hl=ja). Previously, I worked as a research assistant at the Center of Future Media, University of Electronic Science and Technology of China, under the mentorship of [Prof. Xing Xu](https://interxuxing.github.io/).
 
 <span style="color: red;">
-I am always open to potential academic collaborations. Feel free to drop me an email or connect with me on
+I am always open to academic collaborations. Feel free to drop me an email or connect with me on
 <a href="#"
    onmouseover="document.getElementById('wechat-qr').style.display='block';"
    onmouseout="document.getElementById('wechat-qr').style.display='none';">
