@@ -2,3 +2,34 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+.news-scroll-box {
+    max-height: 150px;       /* 设置最大高度，超出部分才会出现滚动条 */
+    overflow-y: auto;        /* 垂直滚动 */
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+    font-size: 17px;
+    box-sizing: border-box;
+    margin-left: 25px;
+  }
+  
+.news-item {
+margin-bottom: 8px;
+color: #333;
+}
+
+/* 可选：美化滚动条，仅在 WebKit 浏览器生效（Chrome, Safari） */
+.news-scroll-box::-webkit-scrollbar {
+width: 8px;
+}
+
+.news-scroll-box::-webkit-scrollbar-thumb {
+background-color: #ccc;
+border-radius: 4px;
+}
+
+.news-scroll-box::-webkit-scrollbar-thumb:hover {
+background-color: #999;
+}

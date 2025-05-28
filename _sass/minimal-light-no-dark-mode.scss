@@ -1,3 +1,19 @@
+html, body {
+  margin: 15px;
+  padding: 0;
+  font-size: 18px;
+}
+
+
+.title a {
+  color: #111 !important;      /* 深黑色 */
+  font-weight: 700;            /* 加粗 */
+  text-decoration: none;       /* 可选：去掉下划线 */
+}
+.title a:hover {
+  color: #333 !important;      /* 悬停时也深色，可自定义 */
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -286,9 +302,11 @@ header {
   width:232px;
   float:left;
   position:fixed;
+  left:150px;
+  // top:0;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+  text-align:center;
 }
 
 
@@ -353,10 +371,11 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:800px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
+  margin-left: 232px;
 }
 
 small {
