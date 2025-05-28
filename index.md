@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## 🍀About Me
 
 I am an incoming master's student at the University of Tokyo, supervised by [Prof. Hideki Nakayama](https://scholar.google.com/citations?user=lZAYGJoAAAAJ&hl=ja). Previously, I worked as a research assistant at the Center of Future Media, University of Electronic Science and Technology of China, under the mentorship of [Prof. Xing Xu](https://interxuxing.github.io/).
 
@@ -13,13 +13,13 @@ I am an incoming master's student at the University of Tokyo, supervised by [Pro
 - **Computer Vision:** Generative Models, World Simulation
 - **Multimodal Learning:** Vision Language Models, 3D Foundation Models
 
-## News
+## 🔥News
 
 - **[Jul. 2024]** Our paper about Mixture of Expert is accepted to ACM MM 2024.
 - **[Mar. 2024]** Our paper about Multimodal Fusion is accepted to ICME 2024.
 - **[Feb. 2024]** Our paper about Uncertainty Learning is accepted to CVPR 2024.
 
-{% include_relative _includes/publications.md %}
+📝{% include_relative _includes/publications.md %}
 
 <!-- ## Experience
 
