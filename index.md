@@ -8,7 +8,7 @@ I am an incoming master's student at the University of Tokyo, supervised by [Pro
 
 <!--🔥🔥🔥 <span style="color: red;">I'm currently looking for a PhD position starting in Fall 2025. If you are interested in my profile, please contact me.</span>-->
 
-## 💡Research Interests
+## 🔬Research Interests
 
 - **Computer Vision:** Generative Models, World Simulation
 - **Multimodal Learning:** Vision Language Models, 3D Foundation Models
@@ -19,7 +19,7 @@ I am an incoming master's student at the University of Tokyo, supervised by [Pro
 - **[Mar. 2024]** Our paper about Multimodal Fusion is accepted to ICME 2024.
 - **[Feb. 2024]** Our paper about Uncertainty Learning is accepted to CVPR 2024.
 
-{% include_relative 📝_includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
 <!-- ## Experience
 
