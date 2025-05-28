@@ -8,9 +8,13 @@ I am an incoming master's student at the University of Tokyo, supervised by [Pro
 
 <span style="color: red;">
 I am always open to potential academic collaborations. Feel free to drop me an email or connect with me on
-<a href="#" onmouseover="document.getElementById('wechat-qr').style.display='inline';" onmouseout="document.getElementById('wechat-qr').style.display='none';">WeChat</a>!
-<img id="wechat-qr" src="/assets/img/wechat.png" alt="WeChat QR" style="display: none; height: 100px; margin-left: 10px; vertical-align: middle;">
+<a href="#"
+   onmouseover="document.getElementById('wechat-qr').style.display='block';"
+   onmouseout="document.getElementById('wechat-qr').style.display='none';">
+   WeChat</a>!
 </span>
+
+<img id="wechat-qr" src="/assets/img/wechat.png" alt="WeChat QR">
 
 ## 🔬 Research Interests
 
