@@ -2,3 +2,33 @@
 ---
 
 @import "minimal-light";
+
+.news-ticker {
+    overflow: hidden;
+    height: 1.8em;
+    position: relative;
+    background-color: #f8f8f8;
+    border-left: 4px solid #FF7F00;
+    padding-left: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .news-list {
+    display: flex;
+    flex-direction: column;
+    animation: scrollNews 6s linear infinite;
+  }
+  
+  .news-item {
+    height: 1.8em;
+    line-height: 1.8em;
+    font-size: 15px;
+    color: #333;
+  }
+  
+  @keyframes scrollNews {
+    0% { transform: translateY(0%); }
+    33% { transform: translateY(-100%); }
+    66% { transform: translateY(-200%); }
+    100% { transform: translateY(0%); }
+  }
