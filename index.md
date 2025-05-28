@@ -27,7 +27,7 @@ I am always open to potential academic collaborations. Feel free to drop me an e
 - **[Mar. 2024]** Our paper about Multimodal Fusion is accepted to ICME 2024.
 - **[Feb. 2024]** Our paper about Uncertainty Learning is accepted to CVPR 2024. -->
 
-<h2>🔥 News</h2>
+<h2>🔥 What's New</h2>
 <div class="news-scroll-box">
   <div class="news-item"><strong>[May. 2025]</strong> 🌻 Our paper about MLLMs Hallucination is released now!</div>
   <div class="news-item"><strong>[Dec. 2024]</strong> 🌻 I started an internship at Shanghai AI Lab. See you in Shanghai!</div>  
