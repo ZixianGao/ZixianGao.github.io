@@ -21,6 +21,8 @@ I am an incoming master's student at the University of Tokyo, supervised by [Pro
 
 <h2>🔥 News</h2>
 <div class="news-scroll-box">
+  <div class="news-item"><strong>[Jul. 2024]</strong> Our paper about Mixture of Expert is accepted to ACM MM 2024!</div>
+  <div class="news-item"><strong>[Jul. 2024]</strong> Our paper about Mixture of Expert is accepted to ACM MM 2024!</div>
   <div class="news-item"><strong>[May. 2025]</strong> Our paper about MLLMs Hallucination is released now!</div>
   <div class="news-item"><strong>[Dec. 2024]</strong> I started an internship at Shanghai AI Lab. See you in Shanghai!</div>  
   <div class="news-item"><strong>[Jul. 2024]</strong> Our paper about Mixture of Expert is accepted to ACM MM 2024!</div>
