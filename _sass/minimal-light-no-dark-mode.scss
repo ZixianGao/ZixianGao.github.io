@@ -148,6 +148,7 @@ education {
     font-size: 115%;
   }
 papertitle {
+    color: #111;
     font-weight: 600;
     font-size: 100%;
   }
@@ -214,6 +215,8 @@ h2 {
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
+  border-bottom: 1px dashed #efefef;
+  padding-bottom: 6px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -229,7 +232,7 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#FF7F00;
   text-decoration:none;
 }
 
