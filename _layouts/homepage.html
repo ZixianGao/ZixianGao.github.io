@@ -107,6 +107,17 @@
         <br>
 
       </header>
+      <div style="
+          position: fixed;
+          top: calc(4.0em + 200px); 
+          left: 16px;
+          width: 200px; 
+          text-align: center;
+          z-index: 500;
+      ">
+        <script type="text/javascript" id="clustrmaps" 
+                src="//clustrmaps.com/map_v2.js?d=sN3rst4HaRzyn6aI3UPxX7phiHWeuVXJtH1tKIGhePQ&cl=ffffff&w=a"></script>
+      </div>
       <section>
 
       {{ content }}
@@ -133,12 +144,6 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-    <footer>
-    
-      <!-- 添加访客地图统计 -->
-      <div style="text-align: right; margin-top: 15px;">
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sN3rst4HaRzyn6aI3UPxX7phiHWeuVXJtH1tKIGhePQ&cl=ffffff&w=a"></script>
-      </div>
-    </footer>
+
   </body>
 </html>
