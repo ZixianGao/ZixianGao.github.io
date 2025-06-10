@@ -18,7 +18,7 @@ I am always open to academic collaborations. Feel free to drop me an email or co
 
 ## 🔬 Research Interests
 
-- **Computer Vision:** Generative Models, World Simulation
+- **Generative Models:** Video Generation/Editing, World Simulation
 - **Multimodal Learning:** Vision Language Models, 3D Foundation Models
 
 <!-- ## 🔥 News
